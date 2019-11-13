@@ -5,6 +5,6 @@
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Hello, multi-stage build...Cool!");
+		System.out.println("Hello, multi-stage build...Cool !");
 	}
 }
